@@ -1,5 +1,3 @@
-# elimelt
-
 <a href="https://elimelt.com">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=elimelt&hide_rank=true" />
 </a>
