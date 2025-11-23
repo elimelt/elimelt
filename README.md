@@ -1,5 +1,3 @@
-## Hi, I'm Elijah 🫥
-
 <p>SWE @ Sutter Hill Ventures</p>
 <p>Prev Computer Engineering @ UW Seattle</p>
 
